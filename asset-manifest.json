@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PavlenkoVolodymyr/practice-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/PavlenkoVolodymyr/practice-react/static/js/main.fe861a98.chunk.js",
+    "main.js.map": "/PavlenkoVolodymyr/practice-react/static/js/main.fe861a98.chunk.js.map",
+    "runtime-main.js": "/PavlenkoVolodymyr/practice-react/static/js/runtime-main.8ba2eb5c.js",
+    "runtime-main.js.map": "/PavlenkoVolodymyr/practice-react/static/js/runtime-main.8ba2eb5c.js.map",
+    "static/js/2.832518e1.chunk.js": "/PavlenkoVolodymyr/practice-react/static/js/2.832518e1.chunk.js",
+    "static/js/2.832518e1.chunk.js.map": "/PavlenkoVolodymyr/practice-react/static/js/2.832518e1.chunk.js.map",
+    "index.html": "/PavlenkoVolodymyr/practice-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/PavlenkoVolodymyr/practice-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.832518e1.chunk.js.LICENSE.txt": "/PavlenkoVolodymyr/practice-react/static/js/2.832518e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ba2eb5c.js",
+    "static/js/2.832518e1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.fe861a98.chunk.js"
+  ]
+}

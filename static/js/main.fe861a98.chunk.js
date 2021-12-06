@@ -1,0 +1,2 @@
+(this["webpackJsonppractice-react"]=this["webpackJsonppractice-react"]||[]).push([[0],{11:function(t,c,e){"use strict";e.r(c);var n=e(1),r=e.n(n),a=e(3),i=e.n(a),s=(e(8),e(9),e(0));var o=function(){return Object(s.jsx)("div",{className:"App"})};i.a.render(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(o,{})}),document.getElementById("root"))},8:function(t,c,e){},9:function(t,c,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.fe861a98.chunk.js.map
